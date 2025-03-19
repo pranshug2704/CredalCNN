@@ -112,6 +112,3 @@ data/
 
 # macOS
 .DS_Store
-
-# Visualizations
-visualizations/
